@@ -116,7 +116,18 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/global-music-search?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/global-music-search/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/global-music-search/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/global-music-search/releases)
 
+### Backup Settings
+
+[![MP AnyCPU](https://img.shields.io/badge/MP-AnyCPU-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Mediaportal-Plugin-Team/BackupSettings/build.yml?logo=github)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/actions)
+[![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/BackupSettings?color=blue)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/blob/master/LICENSE)
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/BackupSettings?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/BackupSettings/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/releases)
+
+
 ## Skins
 
-- Black Glass
-- Pure Vision HD (1080)
+- [![Default Wide HD](https://img.shields.io/badge/MP-Default_Wide_HD-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/DefaultWideHD)
+- [![Pure Vision HD](https://img.shields.io/badge/MP-Pure_Vision_HD-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/PureVisionHD)
+- [![Ares](https://img.shields.io/badge/MP-Ares-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/Ares)
+- [![Black Glass](https://img.shields.io/badge/MP-Black_Glass-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/BlackGlass)
