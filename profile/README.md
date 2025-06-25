@@ -135,6 +135,7 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 
 ## Skins
 
+- [![Titan](https://img.shields.io/badge/MP-Titan-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/Titan)
 - [![Default Wide HD](https://img.shields.io/badge/MP-Default_Wide_HD-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/DefaultWideHD)
 - [![Pure Vision HD](https://img.shields.io/badge/MP-Pure_Vision_HD-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/PureVisionHD)
 - [![Ares](https://img.shields.io/badge/MP-Ares-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/Ares)
