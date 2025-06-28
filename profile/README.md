@@ -140,3 +140,13 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 - [![Pure Vision HD](https://img.shields.io/badge/MP-Pure_Vision_HD-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/PureVisionHD)
 - [![Ares](https://img.shields.io/badge/MP-Ares-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/Ares)
 - [![Black Glass](https://img.shields.io/badge/MP-Black_Glass-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/BlackGlass)
+
+## Packages
+
+### SQLite
+
+[![MP AnyCPU](https://img.shields.io/badge/MP-AnyCPU-blue?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/SQLite/releases)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Mediaportal-Plugin-Team/SQLite/release.yml?logo=github)](https://github.com/Mediaportal-Plugin-Team/SQLite/actions)
+[![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/SQLite?color=blue)](https://github.com/Mediaportal-Plugin-Team/SQLite/blob/master/LICENSE)
+[![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/SQLite?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/SQLite/releases)
+[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/SQLite/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/SQLite/releases)
