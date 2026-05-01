@@ -153,3 +153,5 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 
 ### MyGet Mirror (Mediaportal)
 [![x86](https://img.shields.io/badge/MyGet-x86-orange?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/MyGet)[![x64](https://img.shields.io/badge/x64-blue?logoColor=white)](https://github.com/Mediaportal-Plugin-Team/MyGet)
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/Mediaportal-Plugin-Team/MyGet/sync.yml?logo=github&label=Sync)](https://github.com/Mediaportal-Plugin-Team/MyGet)
+[![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/MyGet?color=blue)](https://github.com/Mediaportal-Plugin-Team/MyGet/blob/master/LICENSE)
