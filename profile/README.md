@@ -150,3 +150,6 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/SQLite?color=blue)](https://github.com/Mediaportal-Plugin-Team/SQLite/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/SQLite?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/SQLite/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/SQLite/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/SQLite/releases)
+
+### MyGet Mirror (Mediaportal)
+[![x86](https://img.shields.io/badge/MyGet-x86-orange?logo=windows&logoColor=white)](https://github.com/Mediaportal-Plugin-Team/MyGet)[![x64](https://img.shields.io/badge/x64-blue?logoColor=white)](https://github.com/Mediaportal-Plugin-Team/MyGet)
