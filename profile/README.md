@@ -19,6 +19,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/mptvseries?color=blue)](https://github.com/Mediaportal-Plugin-Team/mptvseries/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/mptvseries?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/mptvseries/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/mptvseries/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/mptvseries/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/mptvseries)](https://github.com/Mediaportal-Plugin-Team/mptvseries/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/mptvseries)](https://github.com/Mediaportal-Plugin-Team/mptvseries/pulls)
 
 ### Trakt
 
@@ -27,6 +29,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/Trakt-for-Mediaportal?color=blue)](https://github.com/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/Trakt-for-Mediaportal?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/Trakt-for-Mediaportal)](https://github.com/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/Trakt-for-Mediaportal)](https://github.com/Mediaportal-Plugin-Team/Trakt-for-Mediaportal/pulls)
 
 ### Trailers
 
@@ -35,6 +39,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/Trailers?color=blue)](https://github.com/Mediaportal-Plugin-Team/Trailers/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/Trailers?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/Trailers/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/Trailers/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/Trailers/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/Trailers)](https://github.com/Mediaportal-Plugin-Team/Trailers/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/Trailers)](https://github.com/Mediaportal-Plugin-Team/Trailers/pulls)
 
 ### Moving Pictures
 
@@ -43,6 +49,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/moving-pictures?color=blue)](https://github.com/Mediaportal-Plugin-Team/moving-pictures/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/moving-pictures?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/moving-pictures/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/moving-pictures/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/moving-pictures/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/moving-pictures)](https://github.com/Mediaportal-Plugin-Team/moving-pictures/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/moving-pictures)](https://github.com/Mediaportal-Plugin-Team/moving-pictures/pulls)
 
 ### MPSync
 
@@ -51,6 +59,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/MPSync?color=blue)](https://github.com/Mediaportal-Plugin-Team/MPSync/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/MPSync?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/MPSync/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/MPSync/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/MPSync/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/MPSync)](https://github.com/Mediaportal-Plugin-Team/MPSync/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/MPSync)](https://github.com/Mediaportal-Plugin-Team/MPSync/pulls)
 
 ### DVDArt
 
@@ -59,6 +69,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/DVDArt?color=blue)](https://github.com/Mediaportal-Plugin-Team/DVDArt/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/DVDArt?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/DVDArt/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/DVDArt/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/DVDArt/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/DVDArt)](https://github.com/Mediaportal-Plugin-Team/DVDArt/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/DVDArt)](https://github.com/Mediaportal-Plugin-Team/DVDArt/pulls)
 
 ### IMDb+
 
@@ -67,6 +79,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/IMDbPlus?color=blue)](https://github.com/Mediaportal-Plugin-Team/IMDbPlus/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/IMDbPlus?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/IMDbPlus/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/IMDbPlus/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/IMDbPlus/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/IMDbPlus)](https://github.com/Mediaportal-Plugin-Team/IMDbPlus/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/IMDbPlus)](https://github.com/Mediaportal-Plugin-Team/IMDbPlus/pulls)
 
 ### LogoManager
 
@@ -75,6 +89,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/LogoManager?color=blue)](https://github.com/Mediaportal-Plugin-Team/LogoManager/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/LogoManager?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/LogoManager/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/LogoManager/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/LogoManager/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/LogoManager)](https://github.com/Mediaportal-Plugin-Team/LogoManager/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/LogoManager)](https://github.com/Mediaportal-Plugin-Team/LogoManager/pulls)
 
 ### TVServerKodi
 
@@ -83,6 +99,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/TVServerKodi?color=blue)](https://github.com/Mediaportal-Plugin-Team/TVServerKodi/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/TVServerKodi?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/TVServerKodi/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/TVServerKodi/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/TVServerKodi/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/TVServerKodi)](https://github.com/Mediaportal-Plugin-Team/TVServerKodi/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/TVServerKodi)](https://github.com/Mediaportal-Plugin-Team/TVServerKodi/pulls)
 
 ### Schedules Direct
 
@@ -91,6 +109,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/mediaportal-schedulesdirect?color=blue)](https://github.com/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/mediaportal-schedulesdirect?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/mediaportal-schedulesdirect)](https://github.com/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/mediaportal-schedulesdirect)](https://github.com/Mediaportal-Plugin-Team/mediaportal-schedulesdirect/pulls)
 
 ### Info Service
 
@@ -99,6 +119,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/InfoService?color=blue)](https://github.com/Mediaportal-Plugin-Team/InfoService/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/InfoService?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/InfoService/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/InfoService/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/InfoService/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/InfoService)](https://github.com/Mediaportal-Plugin-Team/InfoService/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/InfoService)](https://github.com/Mediaportal-Plugin-Team/InfoService/pulls)
 
 ### MPEI Plugin aka Extensions
 
@@ -107,6 +129,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/mpei-plugin?color=blue)](https://github.com/Mediaportal-Plugin-Team/mpei-plugin/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/mpei-plugin?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/mpei-plugin/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/mpei-plugin/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/mpei-plugin/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/mpei-plugin)](https://github.com/Mediaportal-Plugin-Team/mpei-plugin/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/mpei-plugin)](https://github.com/Mediaportal-Plugin-Team/mpei-plugin/pulls)
 
 ### Global Music Search
 
@@ -115,6 +139,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/global-music-search?color=blue)](https://github.com/Mediaportal-Plugin-Team/global-music-search/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/global-music-search?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/global-music-search/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/global-music-search/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/global-music-search/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/global-music-search)](https://github.com/Mediaportal-Plugin-Team/global-music-search/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/global-music-search)](https://github.com/Mediaportal-Plugin-Team/global-music-search/pulls)
 
 ### Backup Settings
 
@@ -123,6 +149,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/BackupSettings?color=blue)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/BackupSettings?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/BackupSettings/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/BackupSettings)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/BackupSettings)](https://github.com/Mediaportal-Plugin-Team/BackupSettings/pulls)
 
 ### LAV Filters
 
@@ -131,6 +159,8 @@ When the package configuration file (XMP2) is changed, the Plugin release is aut
 [![GitHub](https://img.shields.io/github/license/Mediaportal-Plugin-Team/LAVFilters?color=blue)](https://github.com/Mediaportal-Plugin-Team/LAVFilters/blob/master/LICENSE)
 [![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/Mediaportal-Plugin-Team/LAVFilters?include_prereleases)](https://github.com/Mediaportal-Plugin-Team/LAVFilters/releases)
 [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/downloads-pre/Mediaportal-Plugin-Team/LAVFilters/latest/total?label=release@downloads)](https://github.com/Mediaportal-Plugin-Team/LAVFilters/releases)
+[![GitHub Issues](https://img.shields.io/github/issues/Mediaportal-Plugin-Team/LAVFilters)](https://github.com/Mediaportal-Plugin-Team/LAVFilters/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Mediaportal-Plugin-Team/LAVFilters)](https://github.com/Mediaportal-Plugin-Team/LAVFilters/pulls)
 
 
 ## Skins
