@@ -1,6 +1,6 @@
 # Mediaportal Plugin Team
 
-A repository that contains Plugins and Skins for Mediaportal from different authors who, for some reason, stopped updating their plugins.
+A repository that contains Plugins and Skins for [Mediaportal](https://www.team-mediaportal.com) from different authors who, for some reason, stopped updating their plugins.
 
 # Development
 
